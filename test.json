@@ -11,6 +11,7 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "How is it going, Wayne?",
                 "ja_sentence": "ウェイン、調子はどうです？"
+                "complete_sentence": "ウェイン、あなたの調子はどうです？"
             },
             {
                 "no": 2,
@@ -18,6 +19,7 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "I'm not too bad.",
                 "ja_sentence": "まあまあです。"
+                "complete_sentence": "私の調子はまあまあです。"
             },
             {
                 "no": 3,
@@ -25,6 +27,7 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Thank you very much for coming out today.",
                 "ja_sentence": "今日はご足労ありがとう。"
+                "complete_sentence": "今日はご足労ありがとう。"
             },
             {
                 "no": 4,
@@ -32,6 +35,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "How's business lately?",
                 "ja_sentence": "景気はどうです？"
+                "complete_sentence":　"最近の景気はどうですか?"
+                
             },
             {
                 "no": 5,
@@ -39,6 +44,7 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "It's been good.",
                 "ja_sentence": "おかげさまで、順調です。"
+                "complete_sentence": "おかげさまで、景気は順調です。"
             },
             {
                 "no": 6,
@@ -46,6 +52,7 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "We recently commissioned a new facility so I've been busy managing that.",
                 "ja_sentence": "最近、新しい施設が稼働開始しまして、その管理で忙しくて。"
+                "complete_sentence": "最近、私たちは新しい施設を稼働開始しまして、その管理で忙しくて。"
             },
             {
                 "no": 7,
@@ -53,6 +60,7 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "I read about that on your company website.",
                 "ja_sentence": "ああ、それ、御社のサイトで読みましたよ。"
+                "complete_sentence": "私は、あなたがたの新しい施設が最近稼働し始めたことを御社のサイトで読みましたよ。"
             },
             {
                 "no": 8,
