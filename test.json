@@ -38,7 +38,7 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "How's business lately?",
                 "ja_sentence": "景気はどうです？"
-                "complete_sentence":　"最近の景気はどうですか?"
+                "complete_sentence":　"日本の景気はどうですか?"
                 "type":  "談話・状況的省略"
             },
             {
@@ -193,7 +193,7 @@
                 "en_sentence": "Is that true?",
                 "ja_sentence": "そうなんでしょうか？"
                 "complete_sentence": "彼らが長期の契約は望んでいないと言うのは本当なのでしょうか？"
-                "type": "照応", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 24,
@@ -202,7 +202,7 @@
                 "en_sentence": "Yes it is.",
                 "ja_sentence": "本当みたいです。"
                 "complete_sentence": "彼らが長期の契約は望んでいないことは本当みたいです。"
-                "type": "照応", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
                 
             },
             {
@@ -212,7 +212,7 @@
                 "en_sentence": "They are mainly looking for spot contract.",
                 "ja_sentence": "現物契約中心のようです。"
                 "complete_sentence": "韓国市場は現物契約中心のようです。"
-                "type": "照応", "談話・状況的省略"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 26,
@@ -221,7 +221,7 @@
                 "en_sentence": "Why is that?",
                 "ja_sentence": "どうしてなんでしょう？"
                 "complete_sentence": "韓国市場は現物契約中心なのはどうしてなのでしょうか？"
-                "type": "照応", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 27,
@@ -248,7 +248,7 @@
                 "en_sentence": "Is that to also keep the price down?",
                 "ja_sentence": "価格を抑える意味もあるんでしょうか？"
                 "complete_sentence": "韓国市場が色々なサプライヤーから調達するのは、価格を抑える意味もあるんでしょうか？"
-                "type": "談話・状況的省略", "照応"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 30,
@@ -283,7 +283,7 @@
                 "en_sentence": "Yeah, that would make life easier.",
                 "ja_sentence": "その方が楽でしょうに。"
                 "complete_sentence": "10年契約の方が楽でしょうに"
-                "type": "照応", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 34,
@@ -301,7 +301,7 @@
                 "en_sentence": "Yeah, there is a lot of changes happening lately.",
                 "ja_sentence": "そう、最近さまざまな変化がありますからね。"
                 "complete_sentence": "そう、韓国市場では最近さまざまな変化がありますからね。"
-                "type": "照応", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 36,
@@ -359,6 +359,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "I'm Ryan from Company A.",
                 "ja_sentence": "A社のライアンです。"
+                "complete_sentence": "私はA社のライアンです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 3,
@@ -366,6 +368,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Hi I'm John from Company B.",
                 "ja_sentence": "こんにちは、B社のジョンといいます。"
+                "complete_sentence":  "こんにちは、私はB社のジョンといいます。"
+                "type":  "談話・状況的省略"
             },
             {
                 "no": 4,
@@ -380,6 +384,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "It was okay.",
                 "ja_sentence": "別に普通でしたね。"
+                "complete_sentence": "別にセミナーは普通でしたね。"
+                "type":  "談話・状況的省略"
             },
             {
                 "no": 6,
@@ -401,6 +407,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "Yes it is.",
                 "ja_sentence": "そうです。"
+                "complete_sentence": "そうです。この博覧会は初めてです。"
+                "type": "わからない"
             },
             {
                 "no": 9,
@@ -429,6 +437,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "Is that allowed?",
                 "ja_sentence": "それ、ありですか？"
+                "complete_sentence": "毎年やるプレゼンの内容が基本的に同じなのは、ありですか？"
+                "type": "照応解決"
             },
             {
                 "no": 13,
@@ -443,6 +453,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "They come to network with people.",
                 "ja_sentence": "人脈づくりのために来るんですよ。"
+                "complete_sentence": "セミナーに来る人は人脈づくりのために来るんですよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 15,
@@ -464,6 +476,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "I will keep that in mind for next time then.",
                 "ja_sentence": "覚えておきますよ。"
+                "complete_sentence": "私はセミナーは人脈作りの機会であることを覚えておきますよ。"
+                "tyoe": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 18,
@@ -492,6 +506,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "We are in a sense competitors then.",
                 "ja_sentence": "じゃあ、ある意味競合相手ですね。"
+                "complete_sentence":  "じゃあ、私たちはある意味競合相手ですね。"
+                "tyoe": "談話・状況的省略"
             },
             {
                 "no": 22,
@@ -506,6 +522,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "But depending on the situation, we could cooperate to share the risk.",
                 "ja_sentence": "ですが、状況によっては、リスクを分担して助け合うこともできますよ。"
+                "complete_sentence":  "ですが、状況によっては、私たちはリスクを分担して助け合うこともできますよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 24,
@@ -520,6 +538,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Here's my card.",
                 "ja_sentence": "これ、名刺です。"
+                "complete_sentence": "これ、私の名刺です。"
+                "type": "非飽和名詞"
             },
             {
                 "no": 26,
@@ -527,6 +547,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Let me know if you ever want to discuss any potential partnerships.",
                 "ja_sentence": "提携などをお考えでしたら、ぜひご連絡ください。"
+                "complete_sentence": "あなたがたが提携などをお考えでしたら、ぜひ私にご連絡ください。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 27,
