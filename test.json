@@ -13,6 +13,7 @@
                 "ja_sentence": "ウェイン、調子はどうです？"
                 "complete_sentence": "ウェイン、あなたの調子はどうです？"
                 "type": "談話・状況的省略"
+                // 「○○の」と補いたくなる名詞は非飽和名詞
             },
             {
                 "no": 2,
@@ -21,7 +22,7 @@
                 "en_sentence": "I'm not too bad.",
                 "ja_sentence": "まあまあです。"
                 "complete_sentence": "私の調子はまあまあです。"
-                "type": "統語的省略"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 3,
@@ -38,7 +39,7 @@
                 "en_sentence": "How's business lately?",
                 "ja_sentence": "景気はどうです？"
                 "complete_sentence":　"最近の景気はどうですか?"
-                "type": "統語的省略"
+                "type":  "談話・状況的省略"
             },
             {
                 "no": 5,
@@ -55,7 +56,7 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "We recently commissioned a new facility so I've been busy managing that.",
                 "ja_sentence": "最近、新しい施設が稼働開始しまして、その管理で忙しくて。"
-                "complete_sentence": "最近、私たちは新しい施設を稼働開始しまして、その管理で忙しくて。"
+                "complete_sentence": "最近、新しい施設を稼働開始しまして、私たちはその管理で忙しくて。"
                 "type": "談話・状況的省略"
             },
             {
@@ -64,8 +65,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "I read about that on your company website.",
                 "ja_sentence": "ああ、それ、御社のサイトで読みましたよ。"
-                "complete_sentence": "私は、あなたがたの新しい施設が最近稼働し始めたことを御社のサイトで読みましたよ。"
-                "type": "わからない"
+                "complete_sentence": "ああ、新しい施設が稼働開始したこと、私は御社のサイトで読みましたよ。"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 8,
