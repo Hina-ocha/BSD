@@ -221,7 +221,7 @@
                 "en_sentence": "Why is that?",
                 "ja_sentence": "どうしてなんでしょう？"
                 "complete_sentence": "韓国市場は現物契約中心なのはどうしてなのでしょうか？"
-                "type": "照応解決", "談話・状況的省略"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 27,
@@ -239,7 +239,7 @@
                 "en_sentence": "So they prefer to source from various suppliers.",
                 "ja_sentence": "なので、いろいろなところから調達したいんですよ。"
                 "complete_sentence": "韓国市場は色々なサプライヤーから調達したいんですよ。"
-                "type": "談話・状況的省略", "照応"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 29,
@@ -248,7 +248,7 @@
                 "en_sentence": "Is that to also keep the price down?",
                 "ja_sentence": "価格を抑える意味もあるんでしょうか？"
                 "complete_sentence": "韓国市場が色々なサプライヤーから調達するのは、価格を抑える意味もあるんでしょうか？"
-                "type": "談話・状況的省略", "照応解決"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 30,
@@ -393,6 +393,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "They weren't talking about anything new.",
                 "ja_sentence": "特に目新しいことは何もなかったです。"
+                "complete_sentence": "セミナーは特に目新しいことは何もなかったです。"
+                 "type":  "談話・状況的省略"
             },
             {
                 "no": 7,
@@ -400,6 +402,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Is this your first time at this expo?",
                 "ja_sentence": "この博覧会は初めてですか？"
+                "complete_sentence": "あなたこの博覧会は初めてですか？"
+                "type":  "談話・状況的省略"
             },
             {
                 "no": 8,
@@ -408,7 +412,7 @@
                 "en_sentence": "Yes it is.",
                 "ja_sentence": "そうです。"
                 "complete_sentence": "そうです。この博覧会は初めてです。"
-                "type": "わからない"
+                "type":  "談話・状況的省略"
             },
             {
                 "no": 9,
@@ -477,7 +481,7 @@
                 "en_sentence": "I will keep that in mind for next time then.",
                 "ja_sentence": "覚えておきますよ。"
                 "complete_sentence": "私はセミナーは人脈作りの機会であることを覚えておきますよ。"
-                "tyoe": "照応解決", "談話・状況的省略"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 18,
@@ -585,6 +589,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "There was a fire and they had to evacuate everyone there.",
                 "ja_sentence": "火災があって社員全員が避難したんです。"
+                "complete_sentence": "A社の施設では火災があって社員全員が避難したんです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 4,
@@ -592,6 +598,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Did the building burn down?",
                 "ja_sentence": "建物は全焼だったの？"
+                "complete_sentence": "A社の施設の建物は全焼だったの？"
+                "type": "非飽和名詞"
             },
             {
                 "no": 5,
@@ -599,6 +607,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I think so.",
                 "ja_sentence": "そうだと思います。"
+                "complete_sentence": "私はA社の施設の建物は全焼したのだと思います。"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 6,
@@ -606,6 +616,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Do you think this will affect the market?",
                 "ja_sentence": "市場にも影響すると思いますか？"
+                "complete_sentence":  "あなたはA社の施設の建物が全焼したことは市場にも影響すると思いますか？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 7,
@@ -620,6 +632,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "They say it was due to the lack of raw material.",
                 "ja_sentence": "原材料の不足によるものだと発表していた。"
+                "complete_sentence": "A社は原材料の不足によるものだと発表していた。"
+                 "type": "談話・状況的省略"
             },
             {
                 "no": 9,
@@ -627,6 +641,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "So my answer is no, it won't affect the market.",
                 "ja_sentence": "だから市場への影響はないと私は思う。"
+                "complete_sentence": "だからA社の施設の建物が全焼したことの市場への影響はないと私は思う。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 10,
@@ -634,6 +650,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Do you think they will go bankrupt?",
                 "ja_sentence": "破産すると思いますか？"
+                "complete_sentence": "あなたはA社が破産すると思いますか？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 11,
@@ -641,6 +659,7 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Maybe.",
                 "ja_sentence": "ひょっとすると。"
+                "complete_sentence": "ひょっとすると。私はA社が破産すると思います"
             },
             {
                 "no": 12,
@@ -662,6 +681,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Well, they have a facility elsewhere before, and that burned down.",
                 "ja_sentence": "いや、以前別の場所にもA社の施設があって、そこも全焼したんだよ。"
+                "complete_sentence":  "いや、以前別の場所にもA社の施設があって、別の場所にあったA社の施設も全焼したんだよ。"
+                "type": "照応解決"
             },
             {
                 "no": 15,
@@ -669,6 +690,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Then a couple years later, a new facility elsewhere magically burned down as well.",
                 "ja_sentence": "そしてその２年後、また別の新しい施設も不思議なことに全焼したんだ。"
+                "complete_sentence": "そして別の場所にあったA社の施設が全焼した２年後、また別の新しい施設も不思議なことに全焼したんだ。"
+                "type": "照応解決"
             },
             {
                 "no": 16,
@@ -676,6 +699,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Some say that it was intentional.",
                 "ja_sentence": "故意による火災だったと言う人もいた。"
+                "complete_sentence": "A社の施設の全焼は故意による火災だったと言う人もいた。" 
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 17,
@@ -683,6 +708,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "So they can claim insurance?",
                 "ja_sentence": "保険金を申請できるからですか？"
+                "complete_sentence": "A社が保険金を申請できるからですか？"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 18,
@@ -697,6 +724,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "But their reputation isn't that good in the industry.",
                 "ja_sentence": "でも業界内で彼らの評判はそれほど良くないよ。"
+                "complete_sentence": "でも業界内でA社の評判はそれほど良くないよ。"
+                "type": "照応解決"
             },
             {
                 "no": 20,
@@ -704,6 +733,8 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "So you can't help but think maybe it was intentional.",
                 "ja_sentence": "だから故意によるものだった可能性を疑わずにはいられないよな。"
+                "complete_sentence": "だからA社の施設の全焼は故意によるものだった可能性を疑わずにはいられないよな。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 21,
@@ -718,6 +749,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "If it was intentional, I hope they don't get away with it.",
                 "ja_sentence": "もし故意によるものだったとしたら、罪を免れてほしくないです。"
+                "complete_sentence": "もしA社の火災が故意によるものだったとしたら、私はA社が罪を免れてほしくないです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 23,
@@ -732,6 +765,9 @@
                 "ja_speaker": "ベン シャーマンさん",
                 "en_sentence": "Time to get back to work now.",
                 "ja_sentence": "さて、仕事に戻ろうか。"
+                "complete_sentence": "さて、私たちは仕事に戻ろうか。"
+                "type": "談話・状況的省略"
+  
             }
         ]
     },
@@ -747,6 +783,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Hi this is Sam from the Seattle office.",
                 "ja_sentence": "こんにちは、シアトルオフィスのサムです。"
+                "complete_sentnece": "こんにちは、私はシアトルオフィスのサムです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 2,
@@ -761,6 +799,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "I haven't heard from you in a while.",
                 "ja_sentence": "しばらく連絡をいただいておりませんでしたが。"
+                "complete_sentnece": "私はしばらくあなたから連絡をいただいておりませんでしたが。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 4,
@@ -768,6 +808,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Yeah, there hasn't been much projects going on.",
                 "ja_sentence": "そうですね、あまりプロジェクトもなかったですからね。"
+                "complete_sentnece": "そうですね、私はしばらくあなたに連絡してませんでした。あまりプロジェクトもなかったですからね。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 5,
@@ -775,6 +817,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "Well, I assume you're starting to get busy since you're calling me.",
                 "ja_sentence": "では、電話をいただいているという事は忙しくなってきているという事ですよね。"
+                "complete_sentnece": "では、あなたから私に電話をいただいているという事はあなたは忙しくなってきているという事ですよね。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 6,
@@ -789,6 +833,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I wanted to ask you to draft a sales contract today.",
                 "ja_sentence": "今日は売買契約のドラフトをお願いしたいんです。"
+                "complete_sentnece": "今日は私はあなたに売買契約のドラフトをお願いしたいんです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 8,
@@ -796,6 +842,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "It's a short-term sales contract with Company A.",
                 "ja_sentence": "A社との短期の売買契約です。"
+                "complete_sentnece": "あなたにお願いしたい売買契約はA社との短期の売買契約です。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 9,
@@ -803,6 +851,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "Can you tell me a bit more about the contract?",
                 "ja_sentence": "もう少し詳しくその契約についてお伺いしてもよろしいでしょうか。"
+                "complete_sentnece": "私はあなたにもう少し詳しくA社との短期の売買契約についてお伺いしてもよろしいでしょうか。"
+                 "type": "談話・状況的省略"
             },
             {
                 "no": 10,
@@ -810,6 +860,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "We're looking to have the contract for a term of two years.",
                 "ja_sentence": "契約は2年に亘る見込みです。"
+                "complete_sentnece":"A社との短期の売買契約は2年に亘る見込みです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 11,
@@ -817,6 +869,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "We will be selling automotive parts to them.",
                 "ja_sentence": "自動車の部品を彼らに販売します。"
+                "complete_sentnece":"私たちは自動車の部品をA社に販売します。"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 12,
@@ -824,6 +878,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "What's the volume like?",
                 "ja_sentence": "どのくらいの量ですか？"
+                "complete_sentnece":"A社に販売する自動車の部品はどのくらいの量ですか？"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 13,
@@ -831,6 +887,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "It will be twelve thousand tons per year.",
                 "ja_sentence": "年に12000トンになります。"
+                "complete_sentnece":"A社に販売する自動車の部品は年に12000トンになります。"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 14,
@@ -838,6 +896,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "So one thousand tons per month?",
                 "ja_sentence": "では1ヶ月1000トンという事でしょうか。"
+                "complete_sentnece": "ではA社に販売する自動車の部品は1ヶ月1000トンという事でしょうか。"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 15,
@@ -845,6 +905,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Yes, it will be shipped monthly.",
                 "ja_sentence": "はい、月ごとに出荷されます。"
+                "complete_sentnece": "はい、自動車の部品は月ごとに出荷されます。"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 16,
@@ -852,6 +914,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "Okay, I'll make a standard sales contract based on what I know now.",
                 "ja_sentence": "分かりました、では私が今わかっていることを基に基本的な売買契約を作成しますね。"
+                "complete_sentnece":　"分かりました、では私が今わかっていることを基に私は基本的な売買契約を作成しますね。"
+                "type": "談話・状況的省略" 
             },
             {
                 "no": 17,
@@ -880,6 +944,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Once I get your draft, I'll send it to Company A and get their feedback.",
                 "ja_sentence": "ドラフトをいただき次第、A社に送って意見があるか聞いてみます。"
+                "complete_sentence": "私はドラフトをいただき次第、私はA社に送って意見があるか聞いてみます。
+                "type": "談話・状況的省略"
             },
             {
                 "no": 21,
@@ -887,6 +953,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "Yes, let me know what they say and I'll see if their changes are acceptable or not.",
                 "ja_sentence": "そうですね、彼らが何と言っているか教えて頂ければ、変更が可能かどうか確認します。"
+                "complete_sentence": "そうですね、A社が何と言っているか私に教えて頂ければ、変更が可能かどうか私が確認します。"
+                "type": "談話・状況的省略", "統語的省略"
             },
             {
                 "no": 22,
@@ -901,6 +969,8 @@
                 "ja_speaker": "アーサー チューさん",
                 "en_sentence": "Anything else you need?",
                 "ja_sentence": "他に何か必要な事はありますか？"
+                "complete_sentence": "他に何かあなたが必要な事はありますか？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 24,
@@ -908,6 +978,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "No I think I'm good.",
                 "ja_sentence": "いや、大丈夫だと思います。"
+                 "complete_sentence": "いや、私は大丈夫だと思います。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 25,
@@ -958,6 +1030,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I'd like to first explain what our department does.",
                 "ja_sentence": "まず、私たちの部署について説明したいと思います。"
+                "complete_sentence": "まず、私は私たちの部署について説明したいと思います。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 5,
@@ -972,6 +1046,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "So we do a lot of commodity trading in various industries.",
                 "ja_sentence": "なので、様々な業界との商品取引があります。"
+                "complete_sentence":　"なので、弊社は様々な業界との商品取引があります。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 7,
@@ -1021,6 +1097,8 @@
                 "ja_speaker": "田村 美里さん",
                 "en_sentence": "I am okay for now.",
                 "ja_sentence": "今のところ大丈夫です。"
+                "complete_sentence": "私は今のところ大丈夫です。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 14,
@@ -1035,6 +1113,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "You might not now what questions to ask now but that's completely normal.",
                 "ja_sentence": "今はまだどんな質問をすればいいか分からないかも知れないですが、それは全く普通のことですから。"
+                "complete_sentence": "あなたは今はまだどんな質問をすればいいか分からないかも知れないですが、どんな質問をすればいいか分からないのは全く普通のことですから。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 16,
@@ -1063,6 +1143,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Five including you.",
                 "ja_sentence": "あなたを入れて5人になります。"
+                "complete_sentence": "あなたを入れてこの部署のスタッフ数は5人になります。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 20,
@@ -1070,6 +1152,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I'll show you to your desk in a bit.",
                 "ja_sentence": "後で席まで案内しますね。"
+                "complete_sentence": "私はあなたを後で席まで案内しますね。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 21,
