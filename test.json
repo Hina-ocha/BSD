@@ -1114,7 +1114,7 @@
                 "en_sentence": "You might not now what questions to ask now but that's completely normal.",
                 "ja_sentence": "今はまだどんな質問をすればいいか分からないかも知れないですが、それは全く普通のことですから。"
                 "complete_sentence": "あなたは今はまだどんな質問をすればいいか分からないかも知れないですが、どんな質問をすればいいか分からないのは全く普通のことですから。"
-                "type": "談話・状況的省略"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 16,
@@ -1161,6 +1161,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "You can let me know if you need anything for your table.",
                 "ja_sentence": "デスクに必要なものがあれば言ってください。"
+                "complete_sentence": "あなたは私にデスクにあなたが必要なものがあれば言ってください。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 22,
@@ -1168,6 +1170,7 @@
                 "ja_speaker": "田村 美里さん",
                 "en_sentence": "Anything?",
                 "ja_sentence": "何でもですか？"
+                
             },
             {
                 "no": 23,
@@ -1175,6 +1178,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Like an additional monitor, desk trays, things like that.",
                 "ja_sentence": "追加のモニターやデスクトレー、そういったものです。"
+                 "complete_sentence":"デスクに必要なものというのは追加のモニターやデスクトレー、そういったものです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 24,
@@ -1189,6 +1194,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I'll explain a bit about our other departments now.",
                 "ja_sentence": "では、他の部署について少し説明します。"
+                "complete_sentence":"では、私は他の部署について少し説明します。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 26,
@@ -1196,6 +1203,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "We also have a mining department and they have four staff there.",
                 "ja_sentence": "鉱業部門があり、スタッフは4名です。"
+                "complete_sentence":　"弊社には鉱業部門があり、鉱業部門のスタッフは4名です。"
+                "type": "非飽和名詞"
             },
             {
                 "no": 27,
@@ -1203,6 +1212,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Their main operation is managing mine assets in North America.",
                 "ja_sentence": "彼らの主な業務は、北米の鉱山資産の管理です。"
+                "complete_sentence": "弊社の鉱業部門の主な業務は、北米の鉱山資産の管理です。"
+                "type": "照応解決"
             },
             {
                 "no": 28,
@@ -1210,6 +1221,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Our admin department has five staff and they handle everything from HR, accounting, and any office administration.",
                 "ja_sentence": "総務部のスタッフは5人で、人事から経理、他のオフィス事務まで何でも手掛けています。"
+                "complete_sentence": "弊社の総務部のスタッフは5人で、弊社の総務部は人事から経理、他のオフィス事務まで何でも手掛けています。"
+                "type": "非飽和名詞", "談話・状況的省略"
             },
             {
                 "no": 29,
@@ -1217,6 +1230,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "How about we show you your desk now?",
                 "ja_sentence": "では、お席に案内しましょう。"
+                "complete_sentence": "では、私はあなたをあなたのお席に案内しましょう。"
+                "type": "非飽和名詞", "談話・状況的省略"
             },
             {
                 "no": 30,
@@ -1246,6 +1261,9 @@
                 "ja_speaker": "由美",
                 "en_sentence": "You wanted to talk with me Mr. Ko?",
                 "ja_sentence": "高さん、お話があるとのことですが？"
+                "complete_sentence":  "高さん、あなたは私にお話があるとのことですが？"
+                "type": "談話・状況的省略"
+                
             },
             {
                 "no": 3,
@@ -1260,6 +1278,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "I know you are still new but since you don't have many leads, you should contact him.",
                 "ja_sentence": "まだ新人なのは知っていますが、あまり見込みのある顧客を担当していないようなので、この人に連絡をとってみてください。"
+                "complete_sentence": "私はあなたがまだ新人なのは知っていますが、あなたはあまり見込みのある顧客を担当していないようなので、この人に連絡をとってみてください。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 5,
@@ -1274,6 +1294,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "May I ask who he is and what his relationship is with this company?",
                 "ja_sentence": "この方が誰で、当社とどのような関係があるか教えていただけますか？"
+                "complete_sentence": "この方が誰で、当社とどのような関係があるか私に教えていただけますか？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 7,
@@ -1281,6 +1303,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "I never met him.",
                 "ja_sentence": "僕は会ったことはないんですよ。"
+                "complete_sentence": "僕はこの人に会ったことはないんですよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 8,
@@ -1288,6 +1312,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "Just call him and see what you can do.",
                 "ja_sentence": "電話して、何が出来るか聞いてみてください。"
+                "complete_sentence": "この人に電話して、あなたに何が出来るか聞いてみてください。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 9,
@@ -1302,6 +1328,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "But how am I even going to proceed?",
                 "ja_sentence": "でも、いったいどうやって進めればいいんでしょうか。"
+                "complete_sentence": "でも、いったい私はどうやって進めればいいんでしょうか。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 11,
@@ -1309,6 +1337,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "I need to know what type of product he is interested in or what brought his business card to our company in order to make the contact more relatable.",
                 "ja_sentence": "連絡して話を進めるには、彼がどのような製品に興味があり、なぜ当社に名刺を置いて行ったか知る必要があるのですが。"
+                "complete_sentence":　"私が彼と連絡して話を進めるには、彼がどのような製品に興味があり、彼がなぜ当社に名刺を置いて行ったか知る必要があるのですが。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 12,
@@ -1316,6 +1346,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "I think you should be more open minded and take whatever work you can.",
                 "ja_sentence": "もう少し広い心で、出来ることなら何でもやってみたほうがいいんじゃないですか？"
+                "complete_sentence": "あなたはもう少し広い心で、あなたが出来ることならあなたは何でもやってみたほうがいいんじゃないですか？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 13,
@@ -1323,6 +1355,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "You shouldn't be looking to pick things you want to do.",
                 "ja_sentence": "何をやりたいか選ばないほうがいいと思いますよ。"
+                "complete_sentence": "私はあなたが何をやりたいか選ばないほうがいいと思いますよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 14,
@@ -1330,6 +1364,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "Excuse me, I think you misunderstood me.",
                 "ja_sentence": "すみませんが、私のことを誤解されているようです。"
+                "complete_sentence": "すみませんが、あなたは私のことを誤解されているようです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 15,
@@ -1337,6 +1373,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "I just don't want to be inefficient here.",
                 "ja_sentence": "ただ、ここで非効率なことはしたくないだけです。"
+                "complete_sentence": "ただ、私はここで非効率なことはしたくないだけです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 16,
@@ -1344,6 +1382,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "I also don't want him to feel like this is a cold call.",
                 "ja_sentence": "また、彼に飛び込み営業だと思われたくないんです。"
+                "complete_sentence": "また、私は彼に飛び込み営業だと思われたくないんです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 17,
@@ -1351,6 +1391,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "Just tell him you got the card from me.",
                 "ja_sentence": "私から名刺をもらったと言えばいいだけですよ。"
+                "complete_sentence":　"あなたは彼に私から名刺をもらったと言えばいいだけですよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 18,
@@ -1358,6 +1400,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "But you just said you never met him!",
                 "ja_sentence": "でも、会ったことはないと仰いましたよね！"
+                 "complete_sentence":　"でも、あなたは彼に会ったことはないと仰いましたよね！"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 19,
@@ -1365,6 +1409,8 @@
                 "ja_speaker": "シルベスター 高",
                 "en_sentence": "Yumi, I think you should be focusing on working harder and not complaining about what information you do or do not have.",
                 "ja_sentence": "由美さん、情報の有無について文句をいうよりも、もっと一生懸命働くことに力を入れたほうがいいと思いますよ。"
+                "complete_sentence": "由美さん、あなたは情報の有無について文句をいうよりも、あなたはもっと一生懸命働くことに力を入れたほうがいいと思いますよ。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 20,
@@ -1400,6 +1446,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "So, you need to understand that Mr. Ko has zero sales experience.",
                 "ja_sentence": "だから、高さんには営業の経験が全然ないってことを理解しておかないと。"
+                "complete_sentence": "だから、あなたは高さんには営業の経験が全然ないってことを理解しておかないと。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 25,
@@ -1407,6 +1455,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "That is not what he said.",
                 "ja_sentence": "そんなこと彼は言ってませんでした。"
+                "complete_sentence": "高さんには営業の経験が全然ないってこと高さんは言ってませんでした。"
+                "type": "照応解決", "談話・状況的省略"
             },
             {
                 "no": 26,
@@ -1414,6 +1464,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Trust me, if he ever had any meaningful experience, he would not just throw a business card at you.",
                 "ja_sentence": "僕を信じてよね、彼に何か意義ある経験があるとしたら、君に名刺を投げつけるようなことはしないだろう。"
+                "complete_sentence": "僕を信じてよね、高さんに何か意義ある経験があるとしたら、高さんは君に名刺を投げつけるようなことはしないだろう。"
+                "type": "談話・状況的省略", "照応解決"
             },
             {
                 "no": 27,
@@ -1421,6 +1473,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "He has no clue how information regarding leads should be relayed.",
                 "ja_sentence": "どうやってリードについての情報を伝えればいいか知らないんだよ。"
+                 "complete_sentence": "高さんはどうやってあなたにリードについての情報を伝えればいいか知らないんだよ。"
+                 "type": "談話・状況的省略"
             },
             {
                 "no": 28,
@@ -1428,6 +1482,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Can you show me the business card?",
                 "ja_sentence": "名刺見せてくれる？"
+                "complete_sentence": "あなたは私に名刺見せてくれる？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 29,
@@ -1435,6 +1491,9 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Okay, so this company is relatively big, so John should know about it.",
                 "ja_sentence": "分かった、この会社は比較的大手だから、ジョンが知ってると思う。"
+                 "complete_sentence": "分かった、この会社は比較的大手だから、ジョンがこの会社を知ってると思う。"
+                "type": "談話・状況的省略"
+                
             },
             {
                 "no": 30,
@@ -1442,6 +1501,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "I do small cap, he does large multinationals.",
                 "ja_sentence": "僕は小さいところの担当だけど、彼は大手の国際企業担当だから。"
+                "complete_sentence": "僕は小さいところの担当だけど、ジョンは大手の国際企業担当だから。"
+                "type": "照応解決"
             },
             {
                 "no": 31,
@@ -1449,6 +1510,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "All right, so I get some background info from John, and?",
                 "ja_sentence": "分かりました、では、ジョンさんから背景を聞いてみます、それから？"
+                "complete_sentence": "分かりました、では、私はジョンさんから背景を聞いてみます、それから？"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 32,
@@ -1456,6 +1519,9 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Just talk to him, he will walk you through the process.",
                 "ja_sentence": "とにかく彼と話してみるといいよ、やり方を順を追って教えてくれる。"
+                "complete_sentence": "とにかくあなたはジョンと話してみるといいよ、ジョンはやり方を順を追って教えてくれる。"
+                "type": "談話・状況的省略", "照応解決","統語的省略"
+                
             },
             {
                 "no": 33,
@@ -1463,6 +1529,8 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Just make sure you never go to Mr. Ko again!",
                 "ja_sentence": "もう高さんのところには行かないようにだけはしろよ！"
+                "complete_sentence": "もうあなたは高さんのところには行かないようにだけはしろよ！"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 34,
@@ -1477,6 +1545,8 @@
                 "ja_speaker": "由美",
                 "en_sentence": "He was so condescending, like we are in school and he is the headmaster or something.",
                 "ja_sentence": "まるで私たちが生徒で彼が校長か何かのように、とっても上から目線で。"
+                "complete_sentence": "高さんはまるで私たちが生徒で彼が校長か何かのように、とっても上から目線で。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 36,
@@ -1484,6 +1554,7 @@
                 "ja_speaker": "ソロモン",
                 "en_sentence": "Sorry I laughed, but he doesn't really do anything to contribute other than make PL sheets, rearrange where everyone is sitting and control the thermostat.",
                 "ja_sentence": "笑ってごめんよ、でも、彼は、損益計算書を作るのと、皆の席替えと、室温調整くらいしか、本当に何にも貢献してないんだ。"
+                 "complete_sentence": "笑ってごめんよ、でも、高さんは、損益計算書を作るのと、皆の席替えと、室温調整くらいしか、本当に何にも貢献してないんだ。"
             }
         ]
     },
@@ -1499,6 +1570,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "I think I figured it out.",
                 "ja_sentence": "わかったようです。"
+                "complete_sentence": "私はわかったようです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 2,
@@ -1520,6 +1593,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "However, some products are eligible for a tax redemption.",
                 "ja_sentence": "ですが、一部の製品は免税対象になるんです。"
+                "complete_sentence": "ですが、中国では一部の製品は免税対象になるんです。"
+                 "type": "談話・状況的省略"
             },
             {
                 "no": 5,
@@ -1534,6 +1609,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "It's seventeen percent.",
                 "ja_sentence": "17パーセントです。"
+                "complete_sentence":  "付加価値税は17パーセントです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 7,
@@ -1548,6 +1625,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Apparently back in 2003, wood products were eligible for a tax redemption.",
                 "ja_sentence": "2003年に木製品は免税になったようです。"
+                "complete_sentence": "2003年に中国では木製品は免税になったようです。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 9,
@@ -1555,6 +1634,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "But the Chinese government abolished that so the value added tax applies to all primary wood products.",
                 "ja_sentence": "が、中国政府は免税措置を取りやめたので、一次木製品全般に付加価値税が適用されています。"
+                "complete_sentence": "が、中国政府は免税措置を取りやめたので、一次木製品全般に中国では付加価値税が適用されています。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 10,
@@ -1569,6 +1650,8 @@
                 "ja_speaker": "サム リーさん",
                 "en_sentence": "Things like lumber and logs.",
                 "ja_sentence": "材木や丸太とか。"
+                "complete_sentence": "一次木製品は材木や丸太とか。"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 12,
