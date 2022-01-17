@@ -12,7 +12,7 @@
                 "en_sentence": "How is it going, Wayne?",
                 "ja_sentence": "ウェイン、調子はどうです？"
                 "complete_sentence": "ウェイン、あなたの調子はどうです？"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
                 // 「○○の」と補いたくなる名詞は非飽和名詞
             },
             {
@@ -22,7 +22,7 @@
                 "en_sentence": "I'm not too bad.",
                 "ja_sentence": "まあまあです。"
                 "complete_sentence": "私の調子はまあまあです。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 3,
@@ -48,7 +48,7 @@
                 "en_sentence": "It's been good.",
                 "ja_sentence": "おかげさまで、順調です。"
                 "complete_sentence": "おかげさまで、景気は順調です。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 6,
@@ -57,7 +57,7 @@
                 "en_sentence": "We recently commissioned a new facility so I've been busy managing that.",
                 "ja_sentence": "最近、新しい施設が稼働開始しまして、その管理で忙しくて。"
                 "complete_sentence": "最近、新しい施設を稼働開始しまして、私たちはその管理で忙しくて。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 7,
@@ -66,7 +66,7 @@
                 "en_sentence": "I read about that on your company website.",
                 "ja_sentence": "ああ、それ、御社のサイトで読みましたよ。"
                 "complete_sentence": "ああ、新しい施設が稼働開始したこと、私は御社のサイトで読みましたよ。"
-                "type": "談話・状況的省略", "照応解決"
+                "type": "照応解決" , "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 8,
@@ -110,7 +110,7 @@
                 "en_sentence": "I was in Japan last month and talked to a couple of potential customers.",
                 "ja_sentence": "先月日本に出張して、見込みのありそうな数社とミーティングしてきました。"
                 "complete_sentence": "私は先月日本に出張して、私は見込みのありそうな数社とミーティングしてきました。"
-                "type": "談話・状況的省略", "統語的省略"
+                "type": "ガ格名詞句の談話・状況的省略", "ガ格名詞句の統語的省略"
             },
             {
                 "no": 14,
@@ -119,7 +119,7 @@
                 "en_sentence": "They all told me that they are looking for a reliable and consistent supply.",
                 "ja_sentence": "全社、声を揃えて、信頼できて一貫性のある供給を望んでいましたね。"
                 "complete_sentence": "彼らは全社、声を揃えて、信頼できて一貫性のある供給を望んでいましたね。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 15,
@@ -135,7 +135,7 @@
                 "en_sentence": "We have 6 facilities with over 1 million ton capacity.",
                 "ja_sentence": "出力百万トン以上の工場が6件ありますし。"
                 "complete_sentence": "私たちは出力百万トン以上の工場が6件ありますし。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 17,
@@ -143,8 +143,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "You also operate your own terminal.",
                 "ja_sentence": "端末も独自に管理されてますしね。"
-                "complete_sentence": "あなたがたは端末もあなたがた独自に管理されてますしね。"
-                "type": "談話・状況的省略", "統語的省略"
+                "complete_sentence": "あなたがたは端末も独自に管理されてますしね。"
+                "type": "ガ格名詞句の談話・状況的省略"
                 
             },
             {
@@ -154,7 +154,7 @@
                 "en_sentence": "Yes, so we can control the ship loading and schedule.",
                 "ja_sentence": "そう、出荷量やスケジュールも管理できます。"
                 "complete_sentence": "そう、私たちは出荷量やスケジュールも管理できます。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 19,
@@ -183,8 +183,8 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "I hear that they aren't looking for long term contracts.",
                 "ja_sentence": "長期の契約は望んでいないと聞きましたが。"
-                "complete_sentence": "私は彼らが長期の契約は望んでいないと聞きましたが。"
-                "type": "談話・状況的省略"
+                "complete_sentence": "私は韓国市場が長期の契約は望んでいないと聞きましたが。"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 23,
@@ -192,8 +192,8 @@
                 "ja_speaker": "ウェイン ウィリスさん",
                 "en_sentence": "Is that true?",
                 "ja_sentence": "そうなんでしょうか？"
-                "complete_sentence": "彼らが長期の契約は望んでいないと言うのは本当なのでしょうか？"
-                "type": "照応解決", "談話・状況的省略"
+                "complete_sentence": "韓国市場が長期の契約は望んでいないと言うのは本当なのでしょうか？"
+                "type": "照応解決", "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 24,
@@ -201,8 +201,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Yes it is.",
                 "ja_sentence": "本当みたいです。"
-                "complete_sentence": "彼らが長期の契約は望んでいないことは本当みたいです。"
-                "type": "照応解決", "談話・状況的省略"
+                "complete_sentence": "韓国市場が長期の契約は望んでいないことは本当みたいです。"
+                "type": "照応解決", "ガ格名詞句の談話・状況的省略"
                 
             },
             {
@@ -212,7 +212,7 @@
                 "en_sentence": "They are mainly looking for spot contract.",
                 "ja_sentence": "現物契約中心のようです。"
                 "complete_sentence": "韓国市場は現物契約中心のようです。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 26,
@@ -221,7 +221,7 @@
                 "en_sentence": "Why is that?",
                 "ja_sentence": "どうしてなんでしょう？"
                 "complete_sentence": "韓国市場は現物契約中心なのはどうしてなのでしょうか？"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 27,
@@ -230,7 +230,7 @@
                 "en_sentence": "Well they don't want to overcommit to one supplier.",
                 "ja_sentence": "サプライヤー一社に傾倒したくないんでしょうね。"
                 "complete_sentence": "韓国市場はサプライヤー一社に傾倒したくないんでしょうね。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 28,
@@ -238,8 +238,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "So they prefer to source from various suppliers.",
                 "ja_sentence": "なので、いろいろなところから調達したいんですよ。"
-                "complete_sentence": "韓国市場は色々なサプライヤーから調達したいんですよ。"
-                "type": "談話・状況的省略", "照応解決"
+                "complete_sentence": "韓国市場はいろいろなところから調達したいんですよ。"
+                "type": "ガ格名詞句の談話・状況的省略", "照応解決"
             },
             {
                 "no": 29,
@@ -248,7 +248,7 @@
                 "en_sentence": "Is that to also keep the price down?",
                 "ja_sentence": "価格を抑える意味もあるんでしょうか？"
                 "complete_sentence": "韓国市場が色々なサプライヤーから調達するのは、価格を抑える意味もあるんでしょうか？"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 30,
@@ -257,7 +257,7 @@
                 "en_sentence": "They can compare prices and shop around for the cheapest price.",
                 "ja_sentence": "価格を比較して、一番安いところから購入するのです。"
                 "complete_sentence": "韓国市場は価格を比較して、韓国市場は一番安いところから購入するのです"
-                "type": "談話・状況的省略", "統語的省略"
+                "type": "ガ格名詞句の談話・状況的省略", "ガ格名詞句の統語的省略"
             },
             {
                 "no": 31,
@@ -274,7 +274,7 @@
                 "en_sentence": "We could offer them a 10-year contract and they can sit back and relax.",
                 "ja_sentence": "10年契約をオファーすれば、向こうはのんびりリラックスできるのに。"
                 "complete_sentence": "弊社が韓国市場と10年契約をオファーすれば、向こうはのんびりリラックスできるのに。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 33,
@@ -283,7 +283,7 @@
                 "en_sentence": "Yeah, that would make life easier.",
                 "ja_sentence": "その方が楽でしょうに。"
                 "complete_sentence": "10年契約の方が楽でしょうに"
-                "type": "照応解決", "談話・状況的省略"
+                "type": "照応解決"
             },
             {
                 "no": 34,
@@ -292,7 +292,7 @@
                 "en_sentence": "We should keep an eye on that market.",
                 "ja_sentence": "韓国市場からは目が離せないですね。"
                 "complete_sentence": "私たちは韓国市場からは目が離せないですね。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 35,
@@ -301,7 +301,7 @@
                 "en_sentence": "Yeah, there is a lot of changes happening lately.",
                 "ja_sentence": "そう、最近さまざまな変化がありますからね。"
                 "complete_sentence": "そう、韓国市場では最近さまざまな変化がありますからね。"
-                "type": "照応解決", "談話・状況的省略"
+                "type": "談話・状況的省略"
             },
             {
                 "no": 36,
@@ -360,7 +360,7 @@
                 "en_sentence": "I'm Ryan from Company A.",
                 "ja_sentence": "A社のライアンです。"
                 "complete_sentence": "私はA社のライアンです。"
-                "type": "談話・状況的省略"
+                "type": "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 3,
@@ -369,7 +369,7 @@
                 "en_sentence": "Hi I'm John from Company B.",
                 "ja_sentence": "こんにちは、B社のジョンといいます。"
                 "complete_sentence":  "こんにちは、私はB社のジョンといいます。"
-                "type":  "談話・状況的省略"
+                "type":  "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 4,
@@ -385,7 +385,7 @@
                 "en_sentence": "It was okay.",
                 "ja_sentence": "別に普通でしたね。"
                 "complete_sentence": "別にセミナーは普通でしたね。"
-                "type":  "談話・状況的省略"
+                "type":  "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 6,
@@ -394,7 +394,7 @@
                 "en_sentence": "They weren't talking about anything new.",
                 "ja_sentence": "特に目新しいことは何もなかったです。"
                 "complete_sentence": "セミナーは特に目新しいことは何もなかったです。"
-                 "type":  "談話・状況的省略"
+                 "type":  "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 7,
@@ -402,8 +402,8 @@
                 "ja_speaker": "ジョン スミスさん",
                 "en_sentence": "Is this your first time at this expo?",
                 "ja_sentence": "この博覧会は初めてですか？"
-                "complete_sentence": "あなたこの博覧会は初めてですか？"
-                "type":  "談話・状況的省略"
+                "complete_sentence": "あなたはこの博覧会は初めてですか？"
+                "type":  "ガ格名詞句の談話・状況的省略"
             },
             {
                 "no": 8,
@@ -411,8 +411,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "Yes it is.",
                 "ja_sentence": "そうです。"
-                "complete_sentence": "そうです。この博覧会は初めてです。"
-                "type":  "談話・状況的省略"
+                "complete_sentence": "この博覧会は初めてです。"
+                "type":  "照応解決"
             },
             {
                 "no": 9,
@@ -473,6 +473,8 @@
                 "ja_speaker": "ライアン リーさん",
                 "en_sentence": "I see.",
                 "ja_sentence": "ああ、そういうことか。"
+                "complete_sentence": "ああ、セミナーに来る人は人脈づくりのために来ていてセミナー目当てではないということか。"
+                "type": "照応解決"
             },
             {
                 "no": 17,
@@ -481,7 +483,7 @@
                 "en_sentence": "I will keep that in mind for next time then.",
                 "ja_sentence": "覚えておきますよ。"
                 "complete_sentence": "私はセミナーは人脈作りの機会であることを覚えておきますよ。"
-                "type": "照応解決", "談話・状況的省略"
+                "type":  "ガ格名詞句の談話・状況的省略", "ヲ格名詞句の談話・状況的省略"
             },
             {
                 "no": 18,
